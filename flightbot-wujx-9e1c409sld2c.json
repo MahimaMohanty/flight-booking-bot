@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flightbot-wujx",
+  "private_key_id": "45512ff33b2f3f5b8ecda3b4ec78ac46bb3d0e06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeJc5maGLOWmrh\nLfz2PqY1+gNdiKK719dP9s2nc8ePRAKlKBiihs4FDbChiN6tSTAXocYE9O/Y+orT\nECNpRTBAUgBErM22YeqdO7UjAdMWmrKPRUhQiPC6HguXYmQLjlCA/P1plVga4rFb\nvDSqCpz+okRcHfFkx1I10rg7pwU644ExiqoIPi7i9QHqlTaWcslXq2kqYzXjBVP6\nWPsaWpe0UyswRDU1g7Eh1h8d7J4NBGltCU3ai0+W+al4QWjq0u+LyuOf1y9sGw46\n5l/tPEPi/aOm8+1hxf/rUkOJluxNA1lDP8qq641+fxEA7K8JTEEhQePlJS+LEORJ\nku+LXLWNAgMBAAECggEAFG/rzqmmPScLoVp9UoAxoA+VYEDAUPiZc1TAameorh+6\nnMfD+TrlBFuqzBFBP5ER9TfbfHf/x+FGz/RJszi0/dbrAHT5Z5ybQmL9K084zXbD\n5QZtzDSKMW8hDdjx91lWl3i6MesSFfVeOK3ne2MAO1rSbToUYDLu8ZQv6UuR/jRE\npzB58q2B2NP9Ks4Y8F1TZsRN8tZDKfXzL4Wdh24ioLSJUi9n88F4Fp7XdRRqhn74\n1kpDqtgi7csKNgShvMbgo0sTTboJ146jnR7FAwLiAn4wWXie/+jcoy2GNcxpNN+r\n5pIkZnvIWrCaIW2cs8J1ga9lZ0D3V8f9L8yf4f9MaQKBgQDadwc7/xbwAr1BAXvU\npA2TZRXwKmG2ky8ijpVn4WcDGGPC6CXygZawSay8UzN55X5DL06cWulF2KwaVfed\nNFkeSzL4DlGQLIIOEe8d8WKIo91lI8NCj4WmPGVcqHDs8iLD9o5Gj+rz/Kipt6u3\nTGqVJcFyE2DVBCcD+QKQi5JCCQKBgQC5UcfOhAMlcd8c73BWmvacEwLfbW+yhlcP\nuewAjVkNACH58FzEDevnnBR/J51WNoRF1eV+/lfI5Lrf+1pj5LReoknHzP+UD8Gm\nmN6mI9gRfOtGsQucH1to3RWudWaP7A+tFqVw8++cAmEPZIa8OYhlWFq9xnstvuv2\nfhtL4m1oZQKBgDictbQ3c2M44oAw+TzuUlJK1LeK1A1y8Lj8x/zGbWJg9KEydXr1\nV+5Q+UFIMkO5U9HnNXDRIjgmYNrmQidrxFhUVl3vn/VDg2RQA233+ne8NwgZj2T1\nOkYMypuLTtAoIxgzEUV50AHwDGkGnqn+VHRX91wvZ11sGQwvgBmjAYC5AoGAZcn6\non82LzINp5oIrTkurWlv0YMNsBRD67pmW6NHv3FMODmC6pju82dyhqkerYUCQE2N\nYaSYWRrxXid0bZvoSnZ/agQ6eXvyFOywlrbnbiucG1cRlm5OyhltWEbZz8GMlrjy\npEkIWjugTlEcBHThazENnmFPtT/B4cFAgvzatVUCgYEA0C6gKH7BjkbMtWL/1NoL\n0vvN+osbrj2VJUQ8p0O1jfrg6D01y8FY7F8Iddcm0gCmbfPPR/CMHUxdtOoCyOYZ\nIAiAVmlMTObvRjjckiv59foFOzVsJnc5wDHA0EdJ71+fSyrXkkfzNuPoUfVR1jTk\nAB2i+Slitn+5GXqd1MluiDw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-access@flightbot-wujx.iam.gserviceaccount.com",
+  "client_id": "113204314878526104599",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-access%40flightbot-wujx.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
